@@ -1,0 +1,24 @@
+{
+  "name": "muse-app",
+  "version": "0.0.0",
+  "description": "muse-app-server ==================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.cs.smu.ca/csci4842-wearables-w2015/muse.git"
+  },
+  "author": "interface-team",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "http://gitlab.cs.smu.ca/csci4842-wearables-w2015/muse.git/issues"
+  },
+  "homepage": "git clone http://gitlab.cs.smu.ca/csci4842-wearables-w2015/muse.git",
+  "dependencies": {
+    "bcrypt": "0.7.x",
+    "express": "3.x",
+    "mongodb": "1.4.x" 
+  }
+}
